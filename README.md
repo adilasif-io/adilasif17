@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adilasif17
 - 👀 I’m interested in all things dark
-- 🌱 I’m currently learning Front end Design & Development and getting into DevOps
+- 🌱 I’m currently learning Front end Design & Development and getting into DevNet
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me adil.asif@live.com
 
